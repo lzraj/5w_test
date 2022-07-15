@@ -1,5 +1,7 @@
 
 :root{
+    font-family: 'Albert Sans', sans-serif;    
+    font-stretch: condensed;
     --row1-color: #e7e9fc;
     --row2-color: #dce1fc;
     --row3-color: #c7cdf9;
@@ -12,6 +14,4 @@
 
 body {
     background-color: var(--nav-bg-color);
-    margin: 0;
-    font-family: 'Montserrat', sans-serif;
   }
