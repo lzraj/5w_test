@@ -1,11 +1,15 @@
-.container {
+.nav {
     display: flex;
-    gap: 10%;
-    margin: 10% 10%;
+    background-color: var(--white-color);
+    margin: 15% 15%;
 }
 
-.main {
-
-margin
-
+.header {
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: var(--btn-color);
+font-size: 2em;
+margin: 0;
+align-items: left;
 }
+
+gap: 10%;

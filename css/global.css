@@ -1,13 +1,17 @@
 
 :root{
-    --main-color: #ebeef5;
-    --secondary-color: #02577a;
-    --nav-bg-color: #F7F6FF;
+    --row1-color: #e7e9fc;
+    --row2-color: #dce1fc;
+    --row3-color: #c7cdf9;
+    --row4-color: #a4b3f6;
+    --btn-color: #2c40eb;
+    --nav-bg-color: #d3e6fc;
     --white-color: #fff;
+    --footer-txt-color: #99e1d4;
 }
 
 body {
-    background-color: var(--main-color);
+    background-color: var(--nav-bg-color);
     margin: 0;
     font-family: 'Montserrat', sans-serif;
   }
